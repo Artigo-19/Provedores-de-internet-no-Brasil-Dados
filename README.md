@@ -1,2 +1,4 @@
 # Provedores-de-internet-no-Brasil-Dados
-Dados do Relatório do Provedores de internet no Brasil
+
+Análise dos termos de uso para provimento de banda larga fixa em relação a padrões internacionais de direitos humanos 
+
