@@ -4,13 +4,13 @@ Análise dos termos de uso para provimento de banda larga fixa em relação a pa
 
 A ARTIGO 19 selecionou e classificou os termos de serviços e demais documentos contratuais das sete empresas de telecomunicação com maior base de clientes no Brasil. A seleção das empresas analisadas se deu a partir de informações da Agência Nacional de Telecomunicações (ANATEL) sobre as prestadoras de Serviço de Comunicação Multimídia (SCM), os provedores de acesso, no país. Foram identificadas sete empresas principais:
 
-·         Algar Telecom S.A
-·         Claro S.A (sucessora por incorporação da NET Serviços de Comunicação S/A.)
-·         Oi (Telemar Norte Leste S.A)
-·         Sercomtel S.A
-·         Sky Serviços de Banda Larga Ltda
-·         Tim Celular S.A
-·         Vivo (Telefonica Brasil S.A)
+- Algar Telecom S.A
+- Claro S.A (sucessora por incorporação da NET Serviços de Comunicação S/A.)
+- Oi (Telemar Norte Leste S.A)
+- Sercomtel S.A
+- Sky Serviços de Banda Larga Ltda
+- Tim Celular S.A
+- Vivo (Telefonica Brasil S.A)
 
 A pesquisa faz uso de quatro arquivos: 
 
